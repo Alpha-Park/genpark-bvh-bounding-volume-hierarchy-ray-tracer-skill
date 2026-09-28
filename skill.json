@@ -1,0 +1,20 @@
+{
+  "name": "genpark-bvh-bounding-volume-hierarchy-ray-tracer-skill",
+  "version": "1.0.0",
+  "description": "Bounding Volume Hierarchy (BVH) ray-box intersection engine using slab method for fast ray tracing",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "bvh",
+    "bounding-volume-hierarchy",
+    "ray-tracing",
+    "slab-method",
+    "aabb-intersection",
+    "python-standard-library",
+    "agent-skills",
+    "computer-graphics",
+    "rendering",
+    "spatial-acceleration"
+  ]
+}
